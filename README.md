@@ -1,1 +1,1 @@
-# remote-first
+# GitHub Workflow: Remote-First
